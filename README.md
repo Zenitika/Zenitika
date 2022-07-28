@@ -16,6 +16,6 @@ ___
 
 ### <span style="color:#ef3f87">Stats</span>
 ___
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenitika&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenitika&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenitika&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenitika&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
