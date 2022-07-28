@@ -11,7 +11,7 @@ ___
 
 ### <span style="color:#ef3f87">Follow Me</span>
 ___
-[![Element](https://img.shields.io/badge/-Element-141321?style=for-the-badge&logo=Element&logoColor=green)](https://matrix.to/#/@zentik:matrix.org)
+[![Element](https://img.shields.io/badge/-Element-141321?style=for-the-badge&logo=Element&logoColor=green)](https://matrix.to/#/@zenitika:matrix.org)
 ![ProtonMail](https://img.shields.io/badge/-zenitika@proton.me-141321?style=for-the-badge&logo=ProtonMail&logoColor=#8653d4)
 
 ### <span style="color:#ef3f87">Stats</span>
