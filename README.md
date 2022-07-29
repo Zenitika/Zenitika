@@ -1,5 +1,6 @@
 
-<p style="text-align: center;"><img src="assets/Logo.jpg" style="width: 50vw;"></p>
+<p align="center"><img src="assets/Logo.jpg" style="width: 25vw;"></p>
+
 
 ### <span style="color:#ef3f87">About Me</span>
 ___
