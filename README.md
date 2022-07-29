@@ -1,4 +1,5 @@
-![Header](assets/Logo.jpg)
+
+<p style="text-align: center;"><img src="assets/Logo.jpg" style="width: 50vw;"></p>
 
 ### <span style="color:#ef3f87">About Me</span>
 ___
