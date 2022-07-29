@@ -1,10 +1,14 @@
 
 <p align="center"><img src="assets/Logo.jpg" style="width: 25vw;"></p>
 
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=zenitika.visitor-badge&left_text=?"></p>
+
 
 ### <span style="color:#ef3f87">About Me</span>
+​ ​ ​ ​ I actively started programming at the end of the summer of 2021. Since then, I have tried myself in different directions and in different languages. At the moment I found myself in such programming languages as HTML CSS JS and Python.
 ___
 ### <span style="color:#ef3f87">Language and tools</span>
+
 ___
 ![Python](https://img.shields.io/badge/-Python-141321?style=for-the-badge&logo=Python&logoColor=0c80ed)
 ![JS](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=ede90c)
