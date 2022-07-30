@@ -1,12 +1,13 @@
 
 <p align="center"><img src="assets/Logo.jpg" style="width: 25vw;"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Zenitika&style=for-the-badge"></p>
 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=zenitika.visitor-badge&left_text=?"></p>
 
 
 ### <span style="color:#ef3f87">About Me</span>
-​ ​ ​ ​ I actively started programming at the end of the summer of 2021. Since then, I have tried myself in different directions and in different languages. At the moment I found myself in such programming languages as HTML CSS JS and Python.
 ___
+​ ​ ​ ​ I actively started programming at the end of the summer of 2021. Since then, I have tried myself in different directions and in different languages. At the moment I found myself in such programming languages as HTML CSS JS and Python.
 ### <span style="color:#ef3f87">Language and tools</span>
 
 ___
