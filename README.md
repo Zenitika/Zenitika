@@ -1,6 +1,5 @@
 
 <p align="center"><img src="assets/Logo-round.png" style="width: 25vw;"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Zenitika&style=for-the-badge"></p>
 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=zenitika.visitor-badge&left_text=?"></p>
 
